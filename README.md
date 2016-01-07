@@ -58,7 +58,7 @@ and its saved-as-PDF file, the XHTML described below will generated.
 1. Type following commands as the root user:
 
         apt-get update
-        apt-get install nii-tex-pdf
+        apt-get install nii-xml-pdf
 Enter "y" for the message below:
 
         WARNING: The following packages cannot be authenticated!

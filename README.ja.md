@@ -59,7 +59,7 @@ XHTMLの要素に対応するPDFの文字列領域を探して領域の座標、
 1. 管理者権限で以下のコマンドを実行してください。
 
         apt-get update
-        apt-get install nii-tex-pdf
+        apt-get install nii-xml-pdf
 次のようなメッセージ（署名なしのパッケージをインストールすることの警告）が表示されるのでyを入力してください。
 
         WARNING: The following packages cannot be authenticated!
